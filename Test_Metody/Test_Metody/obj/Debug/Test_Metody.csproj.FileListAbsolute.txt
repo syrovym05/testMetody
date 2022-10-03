@@ -1,0 +1,10 @@
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\bin\Debug\Test_Metody.exe.config
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\bin\Debug\Test_Metody.exe
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\bin\Debug\Test_Metody.pdb
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\obj\Debug\Test_Metody.csprojAssemblyReference.cache
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\obj\Debug\Test_Metody.Form1.resources
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\obj\Debug\Test_Metody.Properties.Resources.resources
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\obj\Debug\Test_Metody.csproj.GenerateResource.cache
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\obj\Debug\Test_Metody.csproj.CoreCompileInputs.cache
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\obj\Debug\Test_Metody.exe
+M:\ITB3\syrovym.05\PRG\Test_Metody\Test_Metody\obj\Debug\Test_Metody.pdb
